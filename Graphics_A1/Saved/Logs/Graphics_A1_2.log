@@ -5320,3 +5320,270 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.09-20.22.59:358][697]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
 [2025.11.09-20.22.59:365][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
 [2025.11.09-20.22.59:465][698]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.11.09-20.26.29:988][876]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 698.031982
+[2025.11.09-20.26.30:988][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.09-20.26.30:988][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 698.697876, Update Interval: 335.618774
+[2025.11.09-20.27.41:578][260]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.11.09-20.27.43:242][416]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.11.09-20.27.43:310][417]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.11.09-20.27.43:336][418]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.11.09-20.27.43:364][419]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.11.09-20.27.43:389][420]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.11.09-20.29.24:088][980]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/My_Materials/M_Glass.M_Glass
+[2025.11.09-20.29.24:093][980]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.11.09-20.29.24:100][980]LogStreaming: Display: FlushAsyncLoading(439): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_ChamferCube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_ChamferCube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:350][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:351][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:351][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:351][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:351][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:351][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:351][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:351][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:351][980]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Cube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.24:770][980]MaterialEditorStats: Texture samplers: 0/16
+[2025.11.09-20.29.24:770][980]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.11.09-20.29.24:770][980]MaterialEditorStats: Shader Count: 0
+[2025.11.09-20.29.24:770][980]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.11.09-20.29.24:778][980]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.11.09-20.29.24:923][982]MaterialEditorStats: Base pass vertex shader: 357 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.11.09-20.29.24:923][982]MaterialEditorStats: Texture samplers: 4/16
+[2025.11.09-20.29.24:923][982]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.11.09-20.29.24:923][982]MaterialEditorStats: Shader Count: 7
+[2025.11.09-20.29.24:923][982]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.11.09-20.29.24:948][983]LogRenderer: Using fallback RTPSO
+[2025.11.09-20.29.24:966][984]LogRenderer: Using fallback RTPSO
+[2025.11.09-20.29.25:008][985]LogRenderer: Using fallback RTPSO
+[2025.11.09-20.29.25:030][986]LogRenderer: Using fallback RTPSO
+[2025.11.09-20.29.25:051][987]LogRenderer: Using fallback RTPSO
+[2025.11.09-20.29.25:074][988]LogRenderer: Using fallback RTPSO
+[2025.11.09-20.29.25:092][989]LogRenderer: Using fallback RTPSO
+[2025.11.09-20.29.25:113][990]LogRenderer: Using fallback RTPSO
+[2025.11.09-20.29.25:130][991]LogRenderer: Using fallback RTPSO
+[2025.11.09-20.29.25:155][992]LogRenderer: Using fallback RTPSO
+[2025.11.09-20.29.25:156][992]LogD3D12RHI: Creating RTPSO with 21 shaders (0 cached, 2 new) took 208.40 ms. Compile time 136.36 ms, link time 72.02 ms.
+[2025.11.09-20.29.25:655][ 18]LogRenderer: Using fallback RTPSO
+[2025.11.09-20.29.42:047][146]LogSlate: Window 'M_Glass' being destroyed
+[2025.11.09-20.29.42:060][146]LogSlate: Window 'M_Glass' being destroyed
+[2025.11.09-20.29.42:106][146]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.11.09-20.29.42:107][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.09-20.29.42:165][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.11.09-20.29.42:181][146]LogRenderer: Using fallback RTPSO
+[2025.11.09-20.29.47:726][719]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_ChamferCube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.47:726][719]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_ChamferCube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.47:751][719]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_ChamferCube]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.09-20.29.48:464][782]Cmd: DELETE
+[2025.11.09-20.29.48:464][782]Cmd: ACTOR DELETE
+[2025.11.09-20.29.48:466][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.09-20.29.48:490][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.11.09-20.29.48:492][782]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.11.09-20.29.51:273][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.09-20.29.51:335][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.11.09-20.29.51:358][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.09-20.29.51:379][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.11.09-20.29.51:384][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/6Q/8H2AEUET7H0PWY9DE2PKM5
+[2025.11.09-20.29.51:385][106]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Saved/8H2AEUET7H0PWY9DE2PKM51A3F3C8040E02822BD61DDABA6A8CAAE.tmp' to '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/6Q/8H2AEUET7H0PWY9DE2PKM5.uasset'
+[2025.11.09-20.29.51:389][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/5G/EEZS2Y9TFURAO1G82ZGHFW
+[2025.11.09-20.29.51:390][106]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Saved/EEZS2Y9TFURAO1G82ZGHFW5CC30E004665B7E27C307E942A9AA139.tmp' to '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/5G/EEZS2Y9TFURAO1G82ZGHFW.uasset'
+[2025.11.09-20.29.51:393][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/LL/BV6Z5PLN7D4VBBNYZS66E3
+[2025.11.09-20.29.51:395][106]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Saved/BV6Z5PLN7D4VBBNYZS66E3D0A1D9AE4C98D4B26D1AB1B640AD6769.tmp' to '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/LL/BV6Z5PLN7D4VBBNYZS66E3.uasset'
+[2025.11.09-20.29.51:398][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/I9/6VUTFTPEZCV3SNYXVQXJTS
+[2025.11.09-20.29.51:399][106]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Saved/6VUTFTPEZCV3SNYXVQXJTSCD2BD3EA4D99C6047ABD4E96F7C293BD.tmp' to '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/I9/6VUTFTPEZCV3SNYXVQXJTS.uasset'
+[2025.11.09-20.29.51:402][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/6Q/TF2HVIOIJA5G5IQ9AMFSFE
+[2025.11.09-20.29.51:403][106]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Saved/TF2HVIOIJA5G5IQ9AMFSFE6928B4D24D27F08B6AA44E83590C0954.tmp' to '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/6Q/TF2HVIOIJA5G5IQ9AMFSFE.uasset'
+[2025.11.09-20.29.51:407][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/45/BK6TNI7UERDRO5P15MWHWQ
+[2025.11.09-20.29.51:409][106]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Saved/BK6TNI7UERDRO5P15MWHWQ438016D04F229A5F88BC5E80D2F8083C.tmp' to '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/45/BK6TNI7UERDRO5P15MWHWQ.uasset'
+[2025.11.09-20.29.51:412][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/FY/J16N9IH2AVHTJ55DCCRE0X
+[2025.11.09-20.29.51:414][106]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Saved/J16N9IH2AVHTJ55DCCRE0X33973EA342A01D685A532FA58FA4AE54.tmp' to '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/FY/J16N9IH2AVHTJ55DCCRE0X.uasset'
+[2025.11.09-20.29.51:415][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/N3/FQV2FW1I8D4Z06TF38UTCR
+[2025.11.09-20.29.51:418][106]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Saved/FQV2FW1I8D4Z06TF38UTCRE40E28A7408FF6E463A691BB65086695.tmp' to '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/N3/FQV2FW1I8D4Z06TF38UTCR.uasset'
+[2025.11.09-20.29.51:421][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/QB/9YXJRQGLS33G0BEH37USBX
+[2025.11.09-20.29.51:422][106]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Saved/9YXJRQGLS33G0BEH37USBX71F9C0AC4A72D5B5909CDC966B6CE03C.tmp' to '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/QB/9YXJRQGLS33G0BEH37USBX.uasset'
+[2025.11.09-20.29.51:426][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/XL/U0BAKX7624EKY7QR8W4QDX
+[2025.11.09-20.29.51:428][106]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Saved/U0BAKX7624EKY7QR8W4QDXEE0A96CE4774EB1A89287E8B24F0538A.tmp' to '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/XL/U0BAKX7624EKY7QR8W4QDX.uasset'
+[2025.11.09-20.29.51:431][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/P8/23C76LEBZHURVXD0YQXI7I
+[2025.11.09-20.29.51:432][106]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Saved/23C76LEBZHURVXD0YQXI7I3EA5EB97421238106C3CC396202C929A.tmp' to '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/P8/23C76LEBZHURVXD0YQXI7I.uasset'
+[2025.11.09-20.29.51:436][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/JT/GA7HKHXWBG09XV4EY7UNMJ
+[2025.11.09-20.29.51:437][106]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Saved/GA7HKHXWBG09XV4EY7UNMJEF6365D54E48C85D607B6CBA32DEB1A8.tmp' to '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/JT/GA7HKHXWBG09XV4EY7UNMJ.uasset'
+[2025.11.09-20.29.51:441][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/HH/BIAWP2Z8HW32809JWMRLU3
+[2025.11.09-20.29.51:442][106]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Saved/BIAWP2Z8HW32809JWMRLU3AF575B174B43146B12827F9192BC16FB.tmp' to '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/HH/BIAWP2Z8HW32809JWMRLU3.uasset'
+[2025.11.09-20.29.51:446][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/7M/EU4NT3LTEXXNXK0JEAA360
+[2025.11.09-20.29.51:447][106]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Saved/EU4NT3LTEXXNXK0JEAA36050E69EC84CACC8AE690E51BE0AEEE592.tmp' to '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/7M/EU4NT3LTEXXNXK0JEAA360.uasset'
+[2025.11.09-20.29.51:451][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/C1/RBHUW51P435QTJ067HTBVZ
+[2025.11.09-20.29.51:452][106]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Saved/RBHUW51P435QTJ067HTBVZ59CC980E484AC3E7914F719A92BC6D53.tmp' to '../../../../../../Users/jakec/OneDrive/Documents/GitHub/Graphics_A1_27961155/Graphics_A1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/C1/RBHUW51P435QTJ067HTBVZ.uasset'
+[2025.11.09-20.29.51:483][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 210.546 ms
+[2025.11.09-20.29.51:532][106]LogContentValidation: Display: Starting to validate 15 assets
+[2025.11.09-20.29.51:533][106]LogContentValidation: Enabled validators:
+[2025.11.09-20.29.51:533][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.09-20.29.51:533][106]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.09-20.29.51:533][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.09-20.29.51:533][106]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.09-20.29.51:533][106]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.09-20.29.51:533][106]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.09-20.29.51:533][106]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.11.09-20.29.59:385][305]LogShaderCompilers: Display: ================================================
+[2025.11.09-20.29.59:385][305]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.09-20.29.59:385][305]LogShaderCompilers: Display: Total job queries 18,423, among them cache hits 4,485 (24.34%), DDC hits 11,839 (64.26%), Duplicates 959 (5.21%)
+[2025.11.09-20.29.59:385][305]LogShaderCompilers: Display: Tracking 12,979 distinct input hashes that result in 11,928 distinct outputs (91.90%)
+[2025.11.09-20.29.59:385][305]LogShaderCompilers: Display: RAM used: 159.55 MiB of 1.60 GiB budget. Usage: 9.74%
+[2025.11.09-20.29.59:385][305]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.09-20.29.59:385][305]LogShaderCompilers: Display: Shaders Compiled: 1,140
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Jobs assigned 1,140, completed 1,140 (100%)
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Average time worker was idle: 10.85 s
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Time job spent in pending queue: average 45.07 s, longest 141.51 s
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Job execution time: average 13.64 s, max 38.36 s
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Job life time (pending + execution): average 58.71 s, max 142.81
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Shader code size: total 27.079 MiB, numShaders 1,167, average 23.761 KiB, min 3.516 KiB, max 55.798 KiB
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 232.33 s
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.13%
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Jobs were issued in 189 batches (only local compilation was used), average 6.03 jobs/batch
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Average processing rate: 4.91 jobs/sec
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Total thread time: 1,766.351 s
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Total thread preprocess time: 322.517 s
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Percentage time preprocessing: 18.26%
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Effective parallelization: 7.60 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.950355
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 6.91 sec, max 12.14 sec, min 1.84 sec)
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display:                                    FRayTracingPrimaryRaysRGS (compiled    2 times, average 5.20 sec, max 7.34 sec, min 3.06 sec)
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display:                  FRayTracedTranslucencyHardwareRayTracingRGS (compiled    4 times, average 3.36 sec, max 3.44 sec, min 3.22 sec)
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 3.22 sec, max 4.35 sec, min 1.86 sec)
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 3.03 sec, max 3.03 sec, min 3.03 sec)
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display:                         FLumenReflectionHardwareRayTracingCS - 22.96% of total time (compiled  304 times, average 1.33 sec, max 2.43 sec, min 0.57 sec)
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 21.55% of total time (compiled  156 times, average 2.44 sec, max 4.18 sec, min 0.65 sec)
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 12.39% of total time (compiled   68 times, average 3.22 sec, max 4.35 sec, min 1.86 sec)
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display:                  FLumenScreenProbeGatherHardwareRayTracingCS - 7.56% of total time (compiled  112 times, average 1.19 sec, max 2.00 sec, min 0.67 sec)
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 6.26% of total time (compiled   16 times, average 6.91 sec, max 12.14 sec, min 1.84 sec)
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: === Material stats ===
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Materials Translated:    152
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Material Translation Only: 0.06 s (42%)
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.11.09-20.29.59:386][305]LogShaderCompilers: Display: ================================================
+[2025.11.09-20.32.11:403][701]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1039.449341
+[2025.11.09-20.32.12:403][704]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.09-20.32.12:403][704]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1040.115601, Update Interval: 325.869934
+[2025.11.09-20.34.59:594][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.09-20.34.59:663][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.09-20.34.59:683][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.11.09-20.34.59:703][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.09-20.34.59:716][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.767 ms (total: 332.313 ms)
+[2025.11.09-20.35.00:423][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.11.09-20.35.00:506][511]LogStall: Shutdown...
+[2025.11.09-20.35.00:506][511]LogStall: Shutdown complete.
+[2025.11.09-20.35.00:578][511]LogSlate: Window 'Graphics_A1 - Unreal Editor' being destroyed
+[2025.11.09-20.35.00:759][511]Cmd: QUIT_EDITOR
+[2025.11.09-20.35.00:759][512]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.11.09-20.35.00:768][512]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.11.09-20.35.00:769][512]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.11.09-20.35.00:769][512]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.11.09-20.35.00:773][512]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.09-20.35.00:773][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.09-20.35.00:773][512]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.11.09-20.35.00:792][512]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.11.09-20.35.00:793][512]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.11.09-20.35.00:793][512]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.11.09-20.35.00:798][512]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.11.09-20.35.00:799][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.09-20.35.00:799][512]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.11.09-20.35.00:799][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.09-20.35.00:799][512]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.09-20.35.00:799][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.09-20.35.00:801][512]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.09-20.35.00:801][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.09-20.35.00:801][512]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.11.09-20.35.00:801][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.09-20.35.00:802][512]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.11.09-20.35.00:802][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.09-20.35.00:803][512]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.11.09-20.35.00:803][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.09-20.35.00:803][512]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.11.09-20.35.00:803][512]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.11.09-20.35.00:806][512]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.11.09-20.35.01:618][512]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.11.09-20.35.01:618][512]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.11.09-20.35.01:618][512]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2025.11.09-20.35.01:618][512]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.11.09-20.35.01:618][512]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.11.09-20.35.01:620][512]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.11.09-20.35.01:629][512]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.11.09-20.35.01:629][512]LogAudio: Display: Audio Device Manager Shutdown
+[2025.11.09-20.35.01:633][512]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.11.09-20.35.01:636][512]LogExit: Preparing to exit.
+[2025.11.09-20.35.01:680][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.11.09-20.35.01:934][512]LogEditorDataStorage: Deinitializing
+[2025.11.09-20.35.02:039][512]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.09-20.35.02:054][512]LogExit: Editor shut down
+[2025.11.09-20.35.02:058][512]LogExit: Transaction tracking system shut down
+[2025.11.09-20.35.02:162][512]LogExit: Object subsystem successfully closed.
+[2025.11.09-20.35.02:174][512]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.11.09-20.35.02:282][512]LogMemoryProfiler: Shutdown
+[2025.11.09-20.35.02:282][512]LogNetworkingProfiler: Shutdown
+[2025.11.09-20.35.02:282][512]LoadingProfiler: Shutdown
+[2025.11.09-20.35.02:282][512]LogTimingProfiler: Shutdown
+[2025.11.09-20.35.02:282][512]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.11.09-20.35.02:282][512]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.11.09-20.35.02:553][512]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.11.09-20.35.02:568][512]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.11.09-20.35.02:568][512]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B838B19D0-44EE-AABC-7FC9-ACB442DC2DF2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=b8b9404b4fd8477fd103b1a1934c35d5%7Cf840c2a50d0c4eefb75acf5ef06cf919%7C0ea54ad7-dd3c-4dec-a734-e798390e3612&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.11.09-20.35.03:124][512]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.11.09-20.35.03:124][512]LogNFORDenoise: NFORDenoise function shutting down
+[2025.11.09-20.35.03:124][512]RenderDocPlugin: plugin has been unloaded.
+[2025.11.09-20.35.03:128][512]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.11.09-20.35.03:128][512]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.11.09-20.35.03:128][512]LogPakFile: Destroying PakPlatformFile
+[2025.11.09-20.35.03:283][512]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.11.09-20.35.03:323][512]LogExit: Exiting.
+[2025.11.09-20.35.03:343][512]Log file closed, 11/09/25 20:35:03
